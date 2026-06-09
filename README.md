@@ -147,22 +147,18 @@ Logistics-Data-Analysis/
 
 ### Fleet Efficiency Analysis
 
-## Which Fleet Manufacturer has highest Fuel Efficiency?
+#### Which Fleet Manufacturer has highest Fuel Efficiency?
 
 ![Fuel Efficiency by Manufacturer](Images/Fuel_Efficiency_by_Manufacturer.jpg)
 
-## Which Home Terminals have high idle time?
+#### Which Home Terminals have high idle time?
 
-![Home Terminal Average Idle Time](Images/Idle Time by Home Terminal.jpg).
+![Average Idle Time by Home Terminal](Images/Idle_Time_by_Home_Terminal.jpg).
 
-## Does Maintenance Cost increase as Fleet ages?
+#### Does Maintenance Cost increase as Fleet ages?
 
-![Fuel Efficiency by Manufacturer](Images/Maintenance Cost vs Truck Age.jpg).
+![Fleet Maintenance Cost vs Fleet Age](Images/Maintenance_Cost_vs_Truck_Age.jpg).
 
-
-### Maintenance Cost vs Truck Age
-
-![Maintenance Analysis](images/maintenance_cost_age.png)
 
 ---
 
