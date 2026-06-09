@@ -76,6 +76,7 @@ The dataset represents a realistic logistics operation spanning three years.
 - NumPy
 - Matplotlib
 - Seaborn
+- PlotlyExpress
 - Jupyter Notebook
 
 ---
@@ -84,14 +85,14 @@ The dataset represents a realistic logistics operation spanning three years.
 
 ```text
 Logistics-Data-Analysis/
-│
+│ Scripts
 ├── Data_LoadCleanAndEDA.py
 ├── Fleet_Efficiency_Analysis.py
 ├── Route_Profitability_Analysis.py
 │
-├── data/
-├── visualizations/
-├── requirements.txt
+├── Dataset/
+├── Dataset_after_Cleaned/
+├── Images/
 └── README.md
 ```
 
@@ -123,15 +124,13 @@ Logistics-Data-Analysis/
 
 ## Key Findings
 
-> Replace the placeholders below with your actual results.
-
-- XX% of routes achieved positive profit margins.
-- Route ABC generated the highest profit per mile.
-- Route XYZ had the highest operational cost.
-- Manufacturer ABC achieved the best fuel efficiency.
-- Trucks older than XX years showed significantly higher maintenance costs.
-- Terminal ABC recorded the highest idle hours.
-- Truck XYZ had the highest Total Cost of Ownership (TCO) per mile.
+- 65% of routes achieved positive profit margins.
+- Route  *Phoenix to Philadephia* generated the highest Net Profit followed by *Columbus to Los Angles* and then *Columbus to Portland*
+- Route *New York to Philadelphia* had the highest operational cost followed by *Portland to Seatle*.
+- Manufacturer *Mack* achieved the best average fuel efficiency.
+- Fleet Maintenance cost varies significantly with respect to Fleet age. It does not strongly co-relate with fleet age.
+- Terminal *Nashville* recorded the highest idle Hours followed by *Philadelphia* and *Columnbus*.
+- Truck *TRK00014* had the highest Total Cost of Ownership (TCO) per mile followed by *TRK00038* and *TRK00026*.
 
 ---
 
@@ -167,7 +166,7 @@ Logistics-Data-Analysis/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/logistics-data-analysis.git
+git clone https://github.com/Ihossain025/logistics-data-analysis.git
 ```
 
 ### Navigate to Project Folder
@@ -199,11 +198,13 @@ python Route_Profitability_Analysis.py
 Example `requirements.txt`
 
 ```text
+Python
 pandas
 numpy
 matplotlib
 seaborn
-jupyter
+plotlyexpress
+jupyterlab
 ```
 
 ---
@@ -224,8 +225,7 @@ jupyter
 
 ## About Me
 
-I am an aspiring Data Analyst with a background in Business, Engineering, and IT. I am currently building my portfolio through hands-on projects involving Python, SQL, Power BI, and Business Analytics.
+I am an aspiring Data Analytics Professional with a background in Business, Engineering, and IT. I am currently building my portfolio through hands-on projects involving Python, SQL, Power BI, and Business Analytics.
 
-**LinkedIn:** [Add Your Link]
+**LinkedIn:** https://www.linkedin.com/in/md-iqbal-hossain-9a2a2312b/
 
-**GitHub:** [Add Your Link]
