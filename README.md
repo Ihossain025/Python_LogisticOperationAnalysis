@@ -86,7 +86,7 @@ The dataset represents a realistic logistics operation spanning three years.
 ```text
 Logistics-Data-Analysis/
 │ Scripts
-├── Data_LoadCleanAndEDA.py
+├── Data_Load_and_Clean.py
 ├── Fleet_Efficiency_Analysis.py
 ├── Route_Profitability_Analysis.py
 │
@@ -117,7 +117,6 @@ Logistics-Data-Analysis/
 
 - Route profitability analysis
 - Fleet efficiency analysis
-- Cost and utilization analysis
 - Business-focused visualizations
 
 ---
@@ -184,7 +183,7 @@ pip install -r requirements.txt
 ### Run the Scripts
 
 ```bash
-python Data_LoadCleanAndEDA.py
+python Data_Load_and_Clean.py
 
 python Fleet_Efficiency_Analysis.py
 
@@ -194,8 +193,6 @@ python Route_Profitability_Analysis.py
 ---
 
 ## Requirements
-
-Example `requirements.txt`
 
 ```text
 Python
