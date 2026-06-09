@@ -139,11 +139,11 @@ Logistics-Data-Analysis/
 
 ### Route Profitability Analysis
 
-![Route Profitability](images/Route_profitability.jpg)
+![Route Profitability](Images/Route_Profitability.jpg)
 
-![Route Cost](images/Route_Cost.jpg)
+![Route Cost](Images/Route_Cost.jpg)
 
-![Route Profitability Buffer](images/Route_Revenue_vs_Cost.jpg)
+![Route Profitability Buffer](Images/Route_Revenue_vs_Cost.jpg)
 
 ### Fleet Efficiency Analysis
 
