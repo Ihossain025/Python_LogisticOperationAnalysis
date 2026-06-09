@@ -139,26 +139,26 @@ Logistics-Data-Analysis/
 
 ### Route Profitability Analysis
 
+#### Which routes are most/least profitable?
 ![Route Profitability](Images/Route_Profitability.jpg)
 
+#### Which routes cost the most to run, and why?
 ![Route Cost](Images/Route_Cost.jpg)
 
+#### Which routes give us the best financial buffer per mile?
 ![Route Profitability Buffer](Images/Route_Revenue_vs_Cost.jpg)
+
 
 ### Fleet Efficiency Analysis
 
 #### Which Fleet Manufacturer has highest Fuel Efficiency?
-
 ![Fuel Efficiency by Manufacturer](Images/Fuel_Efficiency_by_Manufacturer.jpg)
 
 #### Which Home Terminals have high idle time?
-
 ![Average Idle Time by Home Terminal](Images/Idle_Time_by_Home_Terminal.jpg).
 
 #### Does Maintenance Cost increase as Fleet ages?
-
 ![Fleet Maintenance Cost vs Fleet Age](Images/Maintenance_Cost_vs_Truck_Age.jpg).
-
 
 ---
 
